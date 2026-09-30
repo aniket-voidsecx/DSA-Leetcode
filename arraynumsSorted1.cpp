@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-
-
-
+    void arraySort(){
+        
+    }
 
     int main(){
 
